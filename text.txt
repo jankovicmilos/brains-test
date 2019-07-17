@@ -1,2 +1,6 @@
 milos jankovic
+<<<<<<< HEAD
 24.09.1977
+=======
+dusan nistoran
+
